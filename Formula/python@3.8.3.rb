@@ -5,7 +5,7 @@ class PythonAT383 < Formula
   sha256 "dfab5ec723c218082fe3d5d7ae17ecbdebffa9a1aea4d64aa3a2ecdd2e795864"
 
   bottle do
-    root_url "https://github.com/yashrastogi/homebrew-python/releases/download/python%403.8.3"
+    root_url "https://github.com/yashrastogi/homebrew-python/releases/download/"
     sha256 "c99d67fc87a8b06e970cb6e97317dde9a083ba1f7a51353d1b6877a50de80f4b" => :catalina
   end
 
