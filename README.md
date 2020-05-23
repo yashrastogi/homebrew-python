@@ -13,3 +13,6 @@ brew install https://raw.githubusercontent.com/yashrastogi/homebrew-python/maste
 
 ## Documentation
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+
+## Credits
+All credits for python@3.8.3 go out to original python@3.8 formula contributors
